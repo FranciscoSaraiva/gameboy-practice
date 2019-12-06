@@ -7,8 +7,8 @@ Check his tutorial playlist [here on youtube](https://www.youtube.com/playlist?l
 For gameboy development resources check the awesome gbdev page [over here](https://github.com/gbdev/awesome-gbdev)
 
 
-### Requirements
+### Requirements or Software Used
 
 - [GBDK-N library to compile roms](https://github.com/andreasjhkarlsson/gbdk-n)
 - [Small Device C Compiler](http://sdcc.sourceforge.net/)
-
+- [GB Tile Designer](http://www.devrs.com/gb/hmgd/gbtd.html)
